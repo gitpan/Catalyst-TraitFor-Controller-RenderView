@@ -27,5 +27,5 @@ requires:
   namespace::autoclean: 0
 resources:
   license: http://dev.perl.org/licenses/
-  repository: git://somewhere.com/myproject.git
-version: 0.001
+  repository: git://github.com/bobtfish/catalyst-traitfor-controller-renderview.git
+version: 0.002
